@@ -1,0 +1,275 @@
+{
+	"name": "FxpansionBFD",
+	"pieces": [
+		{
+			"name":"Kick 1 Hit",
+			"midiNote":36,
+			"type":"KICK_1_HIT"
+		},
+		{
+			"name":"Kick 1 Hit (No Snare)",
+			"midiNote":35,
+			"type":"KICK_1_HIT_NO_SNARE"
+		},
+		{
+			"name":"Kick 2 Hit",
+			"midiNote":23,
+			"type":"KICK_2_HIT"
+		},
+		{
+			"name":"Kick 2 Hit (No Snare)",
+			"midiNote":24,
+			"type":"KICK_2_HIT_NO_SNARE"
+		},
+		{
+			"name":"Snare 1 Hit",
+			"midiNote":38,
+			"type":"SNARE_1_HIT"
+		},
+		{
+			"name":"Snare 1 Sidestick",
+			"midiNote":37,
+			"type":"SNARE_1_SIDESTICK"
+		},
+		{
+			"name":"Snare 1 Rim",
+			"midiNote":40,
+			"type":"SNARE_1_RIM"
+		},
+		{
+			"name":"Snare 1 Drag",
+			"midiNote":39,
+			"type":"SNARE_1_DRAG"
+		},
+		{
+			"name":"Snare 1 Flam",
+			"midiNote":41,
+			"type":"SNARE_1_FLAM"
+		},
+		{
+			"name":"Snare 2 Hit",
+			"midiNote":26,
+			"type":"SNARE_2_HIT"
+		},
+		{
+			"name":"Snare 2 Sidestick",
+			"midiNote":25,
+			"type":"SNARE_2_SIDESTICK"
+		},
+		{
+			"name":"Snare 2 Rim",
+			"midiNote":28,
+			"type":"SNARE_2_RIM"
+		},
+		{
+			"name":"Snare 2 Drag",
+			"midiNote":27,
+			"type":"SNARE_2_DRAG"
+		},
+		{
+			"name":"Snare 2 Flam",
+			"midiNote":29,
+			"type":"SNARE_2_FLAM"
+		},
+		{
+			"name":"Floor Tom Hit",
+			"midiNote":43,
+			"type":"FLOOR_TOM"
+		},
+		{
+			"name":"Mid Tom Hit",
+			"midiNote":45,
+			"type":"MID_TOM"
+		},
+		{
+			"name":"High Tom Hit",
+			"midiNote":47,
+			"type":"HI_TOM"
+		},
+		{
+			"name":"Tom 4 Hit",
+			"midiNote":2,
+			"type":"TOM_4_HIT"
+		},
+		{
+			"name":"Tom 4 Alt",
+			"midiNote":3,
+			"type":"TOM_4_ALT"
+		},
+		{
+			"name":"Tom 5 Hit",
+			"midiNote":4,
+			"type":"TOM_5_HIT"
+		},
+		{
+			"name":"Tom 5 Alt",
+			"midiNote":5,
+			"type":"TOM_5_ALT"
+		},
+		{
+			"name":"Tom 6 Hit",
+			"midiNote":6,
+			"type":"TOM_6_HIT"
+		},
+		{
+			"name":"Tom 6 Alt",
+			"midiNote":7,
+			"type":"TOM_6_ALT"
+		},
+		{
+			"name":"Percussion Hit",
+			"midiNote":0,
+			"type":"PERCUSSION_HIT"
+		},
+		{
+			"name":"Percussion Alt",
+			"midiNote":1,
+			"type":"PERCUSSION_ALT"
+		},
+		{
+			"name":"Cymbal 1 Hit",
+			"midiNote":49,
+			"type":"CYMBAL_1_HIT"
+		},
+		{
+			"name":"Cymbal 1 Bell",
+			"midiNote":54,
+			"type":"CYMBAL_1_BELL"
+		},
+		{
+			"name":"Cymbal 1 Choke",
+			"midiNote":57,
+			"type":"CYMBAL_1_CHOKE"
+		},
+		{
+			"name":"Cymbal 2 Hit",
+			"midiNote":55,
+			"type":"CYMBAL_2_HIT"
+		},
+		{
+			"name":"Cymbal 2 Bell",
+			"midiNote":56,
+			"type":"CYMBAL_2_BELL"
+		},
+		{
+			"name":"Cymbal 2 Choke",
+			"midiNote":58,
+			"type":"CYMBAL_2_CHOKE"
+		},
+		{
+			"name":"Cymbal 3 Hit",
+			"midiNote":51,
+			"type":"CYMBAL_3_HIT"
+		},
+		{
+			"name":"Cymbal 3 Bell",
+			"midiNote":53,
+			"type":"CYMBAL_3_BELL"
+		},
+		{
+			"name":"Cymbal 3 Choke",
+			"midiNote":59,
+			"type":"CYMBAL_3_CHOKE"
+		},
+		{
+			"name":"Cymbal 4 Hit",
+			"midiNote":8,
+			"type":"CYMBAL_4_HIT"
+		},
+		{
+			"name":"Cymbal 4 Bell",
+			"midiNote":9,
+			"type":"CYMBAL_4_BELL"
+		},
+		{
+			"name":"Cymbal 4 Choke",
+			"midiNote":14,
+			"type":"CYMBAL_4_CHOKE"
+		},
+		{
+			"name":"Cymbal 5 Hit",
+			"midiNote":10,
+			"type":"CYMBAL_5_HIT"
+		},
+		{
+			"name":"Cymbal 5 Bell",
+			"midiNote":11,
+			"type":"CYMBAL_5_BELL"
+		},
+		{
+			"name":"Cymbal 5 Choke",
+			"midiNote":15,
+			"type":"CYMBAL_5_CHOKE"
+		},
+		{
+			"name":"Cymbal 6 Hit",
+			"midiNote":16,
+			"type":"CYMBAL_6_HIT"
+		},
+		{
+			"name":"Cymbal 6 Bell",
+			"midiNote":13,
+			"type":"CYMBAL_6_BELL"
+		},
+		{
+			"name":"Cymbal 6 Choke",
+			"midiNote":59,
+			"type":"CYMBAL_6_CHOKE"
+		},
+		{
+			"name":"HiHat Open Tip (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN_TIP_GM"
+		},
+		{
+			"name":"HiHat 3/4 Open Tip",
+			"midiNote":33,
+			"type":"HIHAT_34_OPEN_TIP"
+		},
+		{
+			"name":"HiHat 3/4 Open Shank",
+			"midiNote":32,
+			"type":"HIHAT_34_OPEN_SHANK"
+		},
+		{
+			"name":"HiHat 1/2 Open Tip",
+			"midiNote":51,
+			"type":"HIHAT_12_OPEN_TIP"
+		},
+		{
+			"name":"HiHat 1/2 Open Shank",
+			"midiNote":52,
+			"type":"HIHAT_12_OPEN_SHANK"
+		},
+		{
+			"name":"HiHat 1/4 Open Tip",
+			"midiNote":31,
+			"type":"HIHAT_14_OPEN_TIP"
+		},
+		{
+			"name":"HiHat 1/4 Open Tip",
+			"midiNote":30,
+			"type":"HIHAT_14_OPEN_SHANK"
+		},
+		{
+			"name":"HiHat Closed Tip",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED_TIP"
+		},
+		{
+			"name":"HiHat Closed Shank",
+			"midiNote":48,
+			"type":"HIHAT_CLOSED_SHANK"
+		},
+		{
+			"name":"HiHat Pedal",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Pedal CC",
+			"midiNote":4,
+			"type":"HIHAT_PEDAL_CC"
+		}
+	]
+}

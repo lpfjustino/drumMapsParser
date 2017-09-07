@@ -1,0 +1,270 @@
+{
+	"name": "DrumkitFromHell",
+	"pieces": [
+		{
+			"name":"Kick Right",
+			"midiNote":36,
+			"type":"KICK_RIGHT"
+		},
+		{
+			"name":"Kick Left",
+			"midiNote":35,
+			"type":"KICK_LEFT"
+		},
+		{
+			"name":"Snare Right",
+			"midiNote":38,
+			"type":"SNARE_RIGHT"
+		},
+		{
+			"name":"Snare Left",
+			"midiNote":33,
+			"type":"SNARE_LEFT"
+		},
+		{
+			"name":"Snare Rimshot",
+			"midiNote":40,
+			"type":"SNARE_RIMSHOT"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":37,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Snare Ruff",
+			"midiNote":39,
+			"type":"SNARE_RUFF"
+		},
+		{
+			"name":"Snare Head",
+			"midiNote":70,
+			"type":"SNARE_HEAD"
+		},
+		{
+			"name":"Snare Flam",
+			"midiNote":69,
+			"type":"SNARE_FLAM"
+		},
+		{
+			"name":"Tom 1 Head",
+			"midiNote":48,
+			"type":"TOM_1_HEAD"
+		},
+		{
+			"name":"Tom 1 Flam",
+			"midiNote":82,
+			"type":"TOM_1_FLAM"
+		},
+		{
+			"name":"Tom 2 Head",
+			"midiNote":47,
+			"type":"TOM_2_HEAD"
+		},
+		{
+			"name":"Tom 2 Flam",
+			"midiNote":80,
+			"type":"TOM_2_FLAM"
+		},
+		{
+			"name":"Tom 3 Head",
+			"midiNote":45,
+			"type":"TOM_3_HEAD"
+		},
+		{
+			"name":"Tom 3 Flam",
+			"midiNote":78,
+			"type":"TOM_3_FLAM"
+		},
+		{
+			"name":"Floor Tom 1 Head",
+			"midiNote":43,
+			"type":"FLOOR_TOM_1_HEAD"
+		},
+		{
+			"name":"Floor Tom 1 Flam",
+			"midiNote":75,
+			"type":"FLOOR_TOM_1_FLAM"
+		},
+		{
+			"name":"Floor Tom 2 Head",
+			"midiNote":41,
+			"type":"FLOOR_TOM_2_HEAD"
+		},
+		{
+			"name":"Floor Tom 2 Flam",
+			"midiNote":73,
+			"type":"FLOOR_TOM_2_FLAM"
+		},
+		{
+			"name":"Ride Cymbal Edge",
+			"midiNote":49,
+			"type":"RIDE_EDGE"
+		},
+		{
+			"name":"Ride Cymbal Bow",
+			"midiNote":51,
+			"type":"RIDE_BOW"
+		},
+		{
+			"name":"Ride Cymbal Bell",
+			"midiNote":53,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Crash Cymbal A Hit",
+			"midiNote":49,
+			"type":"CRASH_A"
+		},
+		{
+			"name":"Crash Cymbal A Muted",
+			"midiNote":54,
+			"type":"CRASH_A_MUTED"
+		},
+		{
+			"name":"Crash Cymbal B Hit",
+			"midiNote":57,
+			"type":"CRASH_B"
+		},
+		{
+			"name":"Crash Cymbal B Muted",
+			"midiNote":58,
+			"type":"CRASH_B_MUTED"
+		},
+		{
+			"name":"Crash Cymbal B Crescendo",
+			"midiNote":76,
+			"type":"CRASH_B_CRESCENDO"
+		},
+		{
+			"name":"Crash Ride 1 Edge",
+			"midiNote":91,
+			"type":"CRASH_RIDE_1_EDGE"
+		},
+		{
+			"name":"Crash Ride 1 Bow",
+			"midiNote":89,
+			"type":"CRASH_RIDE_1_BOW"
+		},
+		{
+			"name":"Crash Ride 1 Bell",
+			"midiNote":90,
+			"type":"CRASH_RIDE_1_BELL"
+		},
+		{
+			"name":"Crash Ride 1 Crescendo",
+			"midiNote":92,
+			"type":"CRASH_RIDE_1_CRESCENDO"
+		},
+		{
+			"name":"Crash Ride 1 Crashed",
+			"midiNote":28,
+			"type":"CRASH_RIDE_1_CRASHED"
+		},
+		{
+			"name":"Crash Ride 2 Edge",
+			"midiNote":115,
+			"type":"CRASH_RIDE_2_EDGE"
+		},
+		{
+			"name":"Crash Ride 2 Bow",
+			"midiNote":116,
+			"type":"CRASH_RIDE_2_BOW"
+		},
+		{
+			"name":"Crash Ride 2 Bell",
+			"midiNote":114,
+			"type":"CRASH_RIDE_2_BELL"
+		},
+		{
+			"name":"Crash Ride 2 Crashed",
+			"midiNote":32,
+			"type":"CRASH_RIDE_2_CRASHED"
+		},
+		{
+			"name":"China 1 Edge",
+			"midiNote":52,
+			"type":"CHINA_1_EDGE"
+		},
+		{
+			"name":"China 1 Bow",
+			"midiNote":93,
+			"type":"CHINA_1_BOW"
+		},
+		{
+			"name":"China 2 Crashed",
+			"midiNote":27,
+			"type":"CHINA_2_CRASHED"
+		},
+		{
+			"name":"China 3 Crashed",
+			"midiNote":29,
+			"type":"CHINA_3_CRASHED"
+		},
+		{
+			"name":"Splash 1",
+			"midiNote":55,
+			"type":"SPLASH_1"
+		},
+		{
+			"name":"Splash 1",
+			"midiNote":30,
+			"type":"SPLASH_2"
+		},
+		{
+			"name":"Splash 1",
+			"midiNote":31,
+			"type":"SPLASH_3"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Opened Max",
+			"midiNote":60,
+			"type":"HIHAT_OPENED_MAX"
+		},
+		{
+			"name":"HiHat Open 3",
+			"midiNote":26,
+			"type":"HIHAT_OPEN3"
+		},
+		{
+			"name":"HiHat Open 2",
+			"midiNote":25,
+			"type":"HIHAT_OPEN2"
+		},
+		{
+			"name":"HiHat Open 1",
+			"midiNote":24,
+			"type":"HIHAT_OPEN1"
+		},
+		{
+			"name":"HiHat Foot Splash",
+			"midiNote":23,
+			"type":"HIHAT_FOOT_SPLASH"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":22,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Pedal Chick",
+			"midiNote":21,
+			"type":"HIHAT_PEDAL_CHICK"
+		}
+	]
+}

@@ -1,0 +1,220 @@
+{
+	"name": "EzxJazz",
+	"pieces": [
+		{
+			"name":"Kick Right",
+			"midiNote":36,
+			"type":"KICK_RIGHT"
+		},
+		{
+			"name":"Kick Open",
+			"midiNote":35,
+			"type":"KICK_OPEN"
+		},
+		{
+			"name":"Snare Right",
+			"midiNote":38,
+			"type":"SNARE_RIGHT"
+		},
+		{
+			"name":"Snare Left",
+			"midiNote":33,
+			"type":"SNARE_LEFT"
+		},
+		{
+			"name":"Snare Rimshot",
+			"midiNote":40,
+			"type":"SNARE_RIMSHOT"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":37,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Snare Rim Only",
+			"midiNote":71,
+			"type":"SNARE_RIM_ONLY"
+		},
+		{
+			"name":"Brush Half Circle",
+			"midiNote":39,
+			"type":"BRUSH_HALF_CIRCLE"
+		},
+		{
+			"name":"Brush Full Circle",
+			"midiNote":67,
+			"type":"BRUSH_FULL_CIRCLE"
+		},
+		{
+			"name":"Brush Short Drag",
+			"midiNote":66,
+			"type":"BRUSH_SHORT_DRAG"
+		},
+		{
+			"name":"Brush Muted",
+			"midiNote":68,
+			"type":"BRUSH_MUTED"
+		},
+		{
+			"name":"Tom 1 Head",
+			"midiNote":48,
+			"type":"TOM_1_HEAD"
+		},
+		{
+			"name":"Tom 1 Rimshot",
+			"midiNote":82,
+			"type":"TOM_1_RIMSHOT"
+		},
+		{
+			"name":"Tom 1 Rim Only",
+			"midiNote":81,
+			"type":"TOM_1_RIM_ONLY"
+		},
+		{
+			"name":"Tom 2 Head",
+			"midiNote":47,
+			"type":"TOM_2_HEAD"
+		},
+		{
+			"name":"Tom 2 Rimshot",
+			"midiNote":80,
+			"type":"TOM_2_RIMSHOT"
+		},
+		{
+			"name":"Tom 2 Rim Only",
+			"midiNote":79,
+			"type":"TOM_2_RIM_ONLY"
+		},
+		{
+			"name":"Floor Tom Head",
+			"midiNote":43,
+			"type":"FLOOR_TOM_HEAD"
+		},
+		{
+			"name":"Floor Tom Rimshot",
+			"midiNote":75,
+			"type":"FLOOR_TOM_RIMSHOT"
+		},
+		{
+			"name":"Floor Tom Rim Only",
+			"midiNote":74,
+			"type":"FLOOR_TOM_RIM_ONLY"
+		},
+		{
+			"name":"Ride Crashed",
+			"midiNote":59,
+			"type":"RIDE_CRASHED"
+		},
+		{
+			"name":"Ride Tip 1",
+			"midiNote":51,
+			"type":"RIDE_TIP_1"
+		},
+		{
+			"name":"Ride Tip 2",
+			"midiNote":113,
+			"type":"RIDE_TIP_2"
+		},
+		{
+			"name":"Ride Bell Shank",
+			"midiNote":53,
+			"type":"RIDE_BELL_SHANK"
+		},
+		{
+			"name":"Ride Bell Tip",
+			"midiNote":117,
+			"type":"RIDE_BELL_TIP"
+		},
+		{
+			"name":"Ride Mute",
+			"midiNote":58,
+			"type":"RIDE_MUTE"
+		},
+		{
+			"name":"Crash Crashed",
+			"midiNote":49,
+			"type":"CRASH_CRASHED"
+		},
+		{
+			"name":"Crash Muted",
+			"midiNote":54,
+			"type":"CRASH_MUTED"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Sequence Soft",
+			"midiNote":65,
+			"type":"HIHAT_SEQUENCE_SOFT"
+		},
+		{
+			"name":"HiHat Sequence Hard",
+			"midiNote":64,
+			"type":"HIHAT_SEQUENCE_HARD"
+		},
+		{
+			"name":"HiHat Tight Tip",
+			"midiNote":63,
+			"type":"HIHAT_TIGHT_TIP"
+		},
+		{
+			"name":"HiHat Tight",
+			"midiNote":62,
+			"type":"HIHAT_TIGHT"
+		},
+		{
+			"name":"HiHat Closed Tip",
+			"midiNote":61,
+			"type":"HIHAT_CLOSED_TIP"
+		},
+		{
+			"name":"HiHat Opened Max",
+			"midiNote":60,
+			"type":"HIHAT_OPENED_MAX"
+		},
+		{
+			"name":"HiHat Open 3",
+			"midiNote":26,
+			"type":"HIHAT_OPEN3"
+		},
+		{
+			"name":"HiHat Open 2",
+			"midiNote":25,
+			"type":"HIHAT_OPEN2"
+		},
+		{
+			"name":"HiHat Open 1",
+			"midiNote":24,
+			"type":"HIHAT_OPEN1"
+		},
+		{
+			"name":"HiHat Foot Splash",
+			"midiNote":23,
+			"type":"HIHAT_FOOT_SPLASH"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":22,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Pedal Chick",
+			"midiNote":21,
+			"type":"HIHAT_PEDAL_CHICK"
+		}
+	]
+}

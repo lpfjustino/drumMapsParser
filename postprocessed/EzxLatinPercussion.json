@@ -1,0 +1,575 @@
+{
+	"name": "EzxLatinPercussion",
+	"pieces": [
+		{
+			"name":"Timbale Lo Open L",
+			"midiNote":66,
+			"type":"TIMBALE_LO_OPEN_L"
+		},
+		{
+			"name":"Timbale Lo Sidestroke",
+			"midiNote":23,
+			"type":"TIMBALE_LO_SIDESTROKE"
+		},
+		{
+			"name":"Timbale Lo Flam",
+			"midiNote":22,
+			"type":"TIMBALE_LO_FLAM"
+		},
+		{
+			"name":"Timbale Lo Open Right",
+			"midiNote":21,
+			"type":"TIMBALE_LO_OPEN_RIGHT"
+		},
+		{
+			"name":"Timbale Lo Rimshot",
+			"midiNote":20,
+			"type":"TIMBALE_LO_RIMSHOT"
+		},
+		{
+			"name":"Timbale Hi Open L",
+			"midiNote":65,
+			"type":"TIMBALE_HI_OPEN_L"
+		},
+		{
+			"name":"Timbale Hi Sidestroke",
+			"midiNote":17,
+			"type":"TIMBALE_HI_SIDESTROKE"
+		},
+		{
+			"name":"Timbale Hi Flam",
+			"midiNote":16,
+			"type":"TIMBALE_HI_FLAM"
+		},
+		{
+			"name":"Timbale Hi Open Right",
+			"midiNote":19,
+			"type":"TIMBALE_HI_OPEN_RIGHT"
+		},
+		{
+			"name":"Timbale Hi Rimshot",
+			"midiNote":18,
+			"type":"TIMBALE_HI_RIMSHOT"
+		},
+		{
+			"name":"Timbale Hi Ruff",
+			"midiNote":15,
+			"type":"TIMBALE_HI_RUFF"
+		},
+		{
+			"name":"Conga Lo Bass L",
+			"midiNote":64,
+			"type":"CONGA_LO_BASS_L"
+		},
+		{
+			"name":"Conga Hi Open L",
+			"midiNote":63,
+			"type":"CONGA_HI_OPEN_L"
+		},
+		{
+			"name":"Conga Hi Muted L",
+			"midiNote":62,
+			"type":"CONGA_HI_MUTED_L"
+		},
+		{
+			"name":"Bongo Lo Open L",
+			"midiNote":61,
+			"type":"BONGO_LO_OPEN_L"
+		},
+		{
+			"name":"Bongo Hi Open L",
+			"midiNote":60,
+			"type":"BONGO_HI_OPEN_L"
+		},
+		{
+			"name":"Cymbal 1 Crashed",
+			"midiNote":57,
+			"type":"CYMBAL_1_CRASHED"
+		},
+		{
+			"name":"Cymbal 1 Crescebdo",
+			"midiNote":120,
+			"type":"CYMBAL_1_CRESCENDO"
+		},
+		{
+			"name":"Cymbal 2 Crashed",
+			"midiNote":59,
+			"type":"CYMBAL_2_CRASHED"
+		},
+		{
+			"name":"Cymbal 2 Crescebdo",
+			"midiNote":122,
+			"type":"CYMBAL_2_CRESCENDO"
+		},
+		{
+			"name":"FX Fibraslap",
+			"midiNote":58,
+			"type":"FX_VIBRASLAP"
+		},
+		{
+			"name":"FX Chimes",
+			"midiNote":72,
+			"type":"FX_CHIMES"
+		},
+		{
+			"name":"FX Crickets",
+			"midiNote":71,
+			"type":"FX_CRICKETS"
+		},
+		{
+			"name":"FX Waterfall",
+			"midiNote":68,
+			"type":"FX_WATERFALL"
+		},
+		{
+			"name":"Cowbell Struck",
+			"midiNote":56,
+			"type":"COWBELL_STRUCK"
+		},
+		{
+			"name":"Bells",
+			"midiNote":67,
+			"type":"BELLS"
+		},
+		{
+			"name":"Tambourine Open",
+			"midiNote":54,
+			"type":"TAMBOURINE_OPEN"
+		},
+		{
+			"name":"Tambourine On Beat",
+			"midiNote":27,
+			"type":"TAMBOURINE_ON_BEAT"
+		},
+		{
+			"name":"Tambourine Off Beat",
+			"midiNote":26,
+			"type":"TAMBOURINE_OFF_BEAT"
+		},
+		{
+			"name":"Tambourine Muted",
+			"midiNote":25,
+			"type":"TAMBOURINE_MUTED"
+		},
+		{
+			"name":"Tambourine Crescendo",
+			"midiNote":24,
+			"type":"TAMBOURINE_CRESCENDO"
+		},
+		{
+			"name":"Bongo Lo Flam",
+			"midiNote":53,
+			"type":"BONGO_LO_FLAM"
+		},
+		{
+			"name":"Bongo Lo Crescendo",
+			"midiNote":52,
+			"type":"BONGO_LO_CRESCENDO"
+		},
+		{
+			"name":"Bongo Lo Open Right",
+			"midiNote":51,
+			"type":"BONGO_LO_OPEN_RIGHT"
+		},
+		{
+			"name":"Bongo Flam",
+			"midiNote":32,
+			"type":"BONGO_FLAM"
+		},
+		{
+			"name":"Bongo Crescendo",
+			"midiNote":31,
+			"type":"BONGO_CRESCENDO"
+		},
+		{
+			"name":"Bongo Open Right",
+			"midiNote":28,
+			"type":"BONGO_OPEN_RIGHT"
+		},
+		{
+			"name":"Bongo Right Heel",
+			"midiNote":30,
+			"type":"BONGO_RIGHT_HEEL"
+		},
+		{
+			"name":"Bongo Left Heel",
+			"midiNote":29,
+			"type":"BONGO_LEFT_HEEL"
+		},
+		{
+			"name":"Shaker Shake",
+			"midiNote":50,
+			"type":"SHAKER_SHAKE"
+		},
+		{
+			"name":"Shaker On Beat",
+			"midiNote":49,
+			"type":"SHAKER_ON_BEAT"
+		},
+		{
+			"name":"Shaker Off Beat",
+			"midiNote":48,
+			"type":"SHAKER_OFF_BEAT"
+		},
+		{
+			"name":"Big Shaker Shake",
+			"midiNote":46,
+			"type":"BIG_SHAKER_SHAKE"
+		},
+		{
+			"name":"Big Shaker On Beat",
+			"midiNote":45,
+			"type":"BIG_SHAKER_ON_BEAT"
+		},
+		{
+			"name":"Big Shaker Off Beat",
+			"midiNote":44,
+			"type":"BIG_SHAKER_OFF_BEAT"
+		},
+		{
+			"name":"Woodblock Block 1",
+			"midiNote":76,
+			"type":"WOODBLOCK_BLOCK_1"
+		},
+		{
+			"name":"Woodblock Block 2",
+			"midiNote":77,
+			"type":"WOODBLOCK_BLOCK_2"
+		},
+		{
+			"name":"Woodblock Block 3",
+			"midiNote":47,
+			"type":"WOODBLOCK_BLOCK_3"
+		},
+		{
+			"name":"Cajon Slap Mid Right",
+			"midiNote":43,
+			"type":"CAJON_SLAP_MID_RIGHT"
+		},
+		{
+			"name":"Cajon Slap Mid Left",
+			"midiNote":42,
+			"type":"CAJON_SLAP_MID_LEFT"
+		},
+		{
+			"name":"Cajon Slap Right",
+			"midiNote":41,
+			"type":"CAJON_SLAP_RIGHT"
+		},
+		{
+			"name":"Cajon Slap Left",
+			"midiNote":40,
+			"type":"CAJON_SLAP_LEFT"
+		},
+		{
+			"name":"Cajon Sidestick Right",
+			"midiNote":14,
+			"type":"CAJON_SIDESTICK_R"
+		},
+		{
+			"name":"Cajon Sidestick Left",
+			"midiNote":13,
+			"type":"CAJON_SIDESTICK_L"
+		},
+		{
+			"name":"Cajon Ghost Right",
+			"midiNote":12,
+			"type":"CAJON_GHOST_RIGHT"
+		},
+		{
+			"name":"Cajon Ghost Left",
+			"midiNote":11,
+			"type":"CAJON_GHOST_LEFT"
+		},
+		{
+			"name":"Cajon Basstone Right",
+			"midiNote":10,
+			"type":"CAJON_BASSTONE_R"
+		},
+		{
+			"name":"Cajon Basstone Left",
+			"midiNote":75,
+			"type":"CAJON_BASSTONE_L"
+		},
+		{
+			"name":"Cajon Brushed Right",
+			"midiNote":87,
+			"type":"CAJON_BRUSHED_R"
+		},
+		{
+			"name":"Cajon Brushed Left",
+			"midiNote":86,
+			"type":"CAJON_BRUSHED_L"
+		},
+		{
+			"name":"Cajon Hit Right",
+			"midiNote":85,
+			"type":"CAJON_HIT_R"
+		},
+		{
+			"name":"Cajon Hit Left",
+			"midiNote":84,
+			"type":"CAJON_HIT_L"
+		},
+		{
+			"name":"Cajon Crescendo",
+			"midiNote":83,
+			"type":"CAJON_CRESCENDO"
+		},
+		{
+			"name":"Cajon Flam",
+			"midiNote":82,
+			"type":"CAJON_FLAM"
+		},
+		{
+			"name":"Udu Flam",
+			"midiNote":39,
+			"type":"UDU_FLAM"
+		},
+		{
+			"name":"Udu Open Crescendo",
+			"midiNote":38,
+			"type":"UDU_OPEN_CRESCENDO"
+		},
+		{
+			"name":"Udu Slap Crescendo",
+			"midiNote":37,
+			"type":"UDU_SLAP_CRESCENDO"
+		},
+		{
+			"name":"Udu Lo Open",
+			"midiNote":36,
+			"type":"UDU_LO_OPEN"
+		},
+		{
+			"name":"Udu Hi Open",
+			"midiNote":35,
+			"type":"UDU_HI_OPEN"
+		},
+		{
+			"name":"Udu Ghost Right",
+			"midiNote":34,
+			"type":"UDU_GHOST_RIGHT"
+		},
+		{
+			"name":"Udu Ghost Left",
+			"midiNote":33,
+			"type":"UDU_GHOST_LEFT"
+		},
+		{
+			"name":"Udu Open Slap",
+			"midiNote":79,
+			"type":"UDU_OPEN_SLAP"
+		},
+		{
+			"name":"Udu Muted Slap",
+			"midiNote":78,
+			"type":"UDU_MUTED_SLAP"
+		},
+		{
+			"name":"Caxixi Beat",
+			"midiNote":9,
+			"type":"CAXIXI_BEAT"
+		},
+		{
+			"name":"Caxixi Special",
+			"midiNote":8,
+			"type":"CAXIXI_SPECIAL"
+		},
+		{
+			"name":"Caxixi On Beat",
+			"midiNote":7,
+			"type":"CAXIXI_ON_BEAT"
+		},
+		{
+			"name":"Caxixi Off Beat",
+			"midiNote":6,
+			"type":"CAXIXI_OFF_BEAT"
+		},
+		{
+			"name":"Maracas Crescendo",
+			"midiNote":5,
+			"type":"MARACAS_CRESCENDO"
+		},
+		{
+			"name":"Maracas On Beat",
+			"midiNote":4,
+			"type":"MARACAS_ON_BEAT"
+		},
+		{
+			"name":"Maracas Off Beat",
+			"midiNote":3,
+			"type":"MARACAS_OFF_BEAT"
+		},
+		{
+			"name":"Shekere Crescendo",
+			"midiNote":127,
+			"type":"SHEKERE_CRESCENDO"
+		},
+		{
+			"name":"Shekere On Beat",
+			"midiNote":126,
+			"type":"SHEKERE_ON_BEAT"
+		},
+		{
+			"name":"Shekere Off Beat",
+			"midiNote":125,
+			"type":"SHEKERE_OFF_BEAT"
+		},
+		{
+			"name":"Afuche Beat",
+			"midiNote":69,
+			"type":"AFUCHE_BEAT"
+		},
+		{
+			"name":"Crescendo Crickets",
+			"midiNote":123,
+			"type":"CRESCENDO_CRICKETS"
+		},
+		{
+			"name":"Crescendo Waterfall",
+			"midiNote":121,
+			"type":"CRESCENDO_WATERFALL"
+		},
+		{
+			"name":"Crescendo Bells",
+			"midiNote":119,
+			"type":"CRESCENDO_BELLS"
+		},
+		{
+			"name":"Conga 1 Special",
+			"midiNote":101,
+			"type":"CONGA_1_SPECIAL"
+		},
+		{
+			"name":"Conga 1 Slap Flam",
+			"midiNote":100,
+			"type":"CONGA_1_SLAP_FLAM"
+		},
+		{
+			"name":"Conga 1 Open Flam",
+			"midiNote":99,
+			"type":"CONGA_1_OPEN_FLAM"
+		},
+		{
+			"name":"Conga 1 Slap Crescendo",
+			"midiNote":88,
+			"type":"CONGA_1_SLAP_CRESCENDO"
+		},
+		{
+			"name":"Conga 1 Open Crescendo",
+			"midiNote":98,
+			"type":"CONGA_1_OPEN_CRESCENDO"
+		},
+		{
+			"name":"Conga 1 Heel Right",
+			"midiNote":97,
+			"type":"CONGA_1_HEEL_RIGHT"
+		},
+		{
+			"name":"Conga 1 Heel Left",
+			"midiNote":96,
+			"type":"CONGA_1_HEEL_LEFT"
+		},
+		{
+			"name":"Conga 1 Closed Slap Right",
+			"midiNote":95,
+			"type":"CONGA_1_CLOSED_SLAP_RIGHT"
+		},
+		{
+			"name":"Conga 1 Closed Left",
+			"midiNote":94,
+			"type":"CONGA_1_CLOSED_LEFT"
+		},
+		{
+			"name":"Conga 1 Open Slap Right",
+			"midiNote":93,
+			"type":"CONGA_1_OPEN_SLAP_RIGHT"
+		},
+		{
+			"name":"Conga 1 Open Left",
+			"midiNote":92,
+			"type":"CONGA_1_OPEN_LEFT"
+		},
+		{
+			"name":"Conga 1 Basstone",
+			"midiNote":91,
+			"type":"CONGA_1_BASSTONE_R"
+		},
+		{
+			"name":"Conga 1 Open Right",
+			"midiNote":90,
+			"type":"CONGA_1_OPEN_RIGHT"
+		},
+		{
+			"name":"Conga 1 Muted Right",
+			"midiNote":89,
+			"type":"CONGA_1_MUTED_RIGHT"
+		},
+		{
+			"name":"Conga 2 Special",
+			"midiNote":110,
+			"type":"CONGA_2_SPECIAL"
+		},
+		{
+			"name":"Conga 2 Open Flam",
+			"midiNote":109,
+			"type":"CONGA_2_OPEN_FLAM"
+		},
+		{
+			"name":"Conga 2 Open Crescendo",
+			"midiNote":108,
+			"type":"CONGA_2_OPEN_CRESCENDO"
+		},
+		{
+			"name":"Conga 2 Basstone",
+			"midiNote":107,
+			"type":"CONGA_2_BASSTONE_R"
+		},
+		{
+			"name":"Conga 2 Basstone",
+			"midiNote":106,
+			"type":"CONGA_2_BASSTONE_L"
+		},
+		{
+			"name":"Conga 2 Muted Right",
+			"midiNote":105,
+			"type":"CONGA_2_MUTED_RIGHT"
+		},
+		{
+			"name":"Conga 2 Muted Right",
+			"midiNote":104,
+			"type":"CONGA_2_MUTED_LEFT"
+		},
+		{
+			"name":"Conga 2 Open Right",
+			"midiNote":103,
+			"type":"CONGA_2_OPEN_RIGHT"
+		},
+		{
+			"name":"Conga 2 Open Right",
+			"midiNote":102,
+			"type":"CONGA_2_OPEN_LEFT"
+		},
+		{
+			"name":"Triangle Open",
+			"midiNote":81,
+			"type":"TRIANGLE_OPEN"
+		},
+		{
+			"name":"Triangle Muted",
+			"midiNote":80,
+			"type":"TRIANGLE_MUTED"
+		},
+		{
+			"name":"Guiro Long",
+			"midiNote":74,
+			"type":"GUIRO_LONG"
+		},
+		{
+			"name":"Guiro Short",
+			"midiNote":73,
+			"type":"GUIRO_SHORT"
+		}
+	]
+}

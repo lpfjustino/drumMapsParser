@@ -1,0 +1,240 @@
+{
+	"name": "GmDrum",
+	"pieces": [
+		{
+			"name":"Bass Drum 1",
+			"midiNote":35,
+			"type":"KICK_1"
+		},
+		{
+			"name":"Bass Drum 2",
+			"midiNote":36,
+			"type":"KICK_2"
+		},
+		{
+			"name":"Side Stick",
+			"midiNote":37,
+			"type":"SIDE_STICK"
+		},
+		{
+			"name":"Snare Drum 1",
+			"midiNote":38,
+			"type":"SNARE_1"
+		},
+		{
+			"name":"Hand Clap",
+			"midiNote":39,
+			"type":"CLAP"
+		},
+		{
+			"name":"Snare Drum 2",
+			"midiNote":40,
+			"type":"SNARE_2"
+		},
+		{
+			"name":"Low Floor Tom",
+			"midiNote":41,
+			"type":"LOW_FLOOR_TOM"
+		},
+		{
+			"name":"High Floor Tom",
+			"midiNote":43,
+			"type":"HIGH_FLOOR_TOM"
+		},
+		{
+			"name":"Low Tom",
+			"midiNote":45,
+			"type":"LOW_TOM"
+		},
+		{
+			"name":"Low-Mid Tom",
+			"midiNote":47,
+			"type":"LOW_MID_TOM"
+		},
+		{
+			"name":"Hi-Mid Tom",
+			"midiNote":48,
+			"type":"HIGH_MID_TOM"
+		},
+		{
+			"name":"Crash Cymbal 1",
+			"midiNote":49,
+			"type":"CRASH_CYMBAL_1"
+		},
+		{
+			"name":"High Tom",
+			"midiNote":50,
+			"type":"HIGH_TOM"
+		},
+		{
+			"name":"Ride Cymbal 1",
+			"midiNote":51,
+			"type":"RIDE_CYMBAL_1"
+		},
+		{
+			"name":"Chinese Cymbal",
+			"midiNote":52,
+			"type":"CHINESE_CYMBAL"
+		},
+		{
+			"name":"Ride Bell",
+			"midiNote":53,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Tambourine",
+			"midiNote":54,
+			"type":"TAMBOURINE"
+		},
+		{
+			"name":"Splash Cymbal",
+			"midiNote":55,
+			"type":"SPLASH_CYMBAL"
+		},
+		{
+			"name":"Cowbell",
+			"midiNote":56,
+			"type":"COWBELL"
+		},
+		{
+			"name":"Crash Cymbal 2",
+			"midiNote":57,
+			"type":"CRASH_CYMBAL_2"
+		},
+		{
+			"name":"Vibraslap",
+			"midiNote":58,
+			"type":"VIBRASLAP"
+		},
+		{
+			"name":"Ride Cymbal 2",
+			"midiNote":59,
+			"type":"RIDE_CYMBAL_2"
+		},
+		{
+			"name":"Hi Bongo",
+			"midiNote":60,
+			"type":"HIGH_BONGO"
+		},
+		{
+			"name":"Low Bongo",
+			"midiNote":61,
+			"type":"LOW_BONGO"
+		},
+		{
+			"name":"Mute Hi Conga",
+			"midiNote":62,
+			"type":"MUTE_HIGH_CONGA"
+		},
+		{
+			"name":"Open Hi Conga",
+			"midiNote":63,
+			"type":"OPEN_HIGH_CONGA"
+		},
+		{
+			"name":"Low Conga",
+			"midiNote":64,
+			"type":"LOW_CONGA"
+		},
+		{
+			"name":"Hi Timbale",
+			"midiNote":65,
+			"type":"HIGH_TIMBALE"
+		},
+		{
+			"name":"Low Timbale",
+			"midiNote":66,
+			"type":"LOW_TIMBALE"
+		},
+		{
+			"name":"Hi Agogo",
+			"midiNote":67,
+			"type":"HIGH_AGOGO"
+		},
+		{
+			"name":"Low Agogo",
+			"midiNote":68,
+			"type":"LOW_AGOGO"
+		},
+		{
+			"name":"Cabasa",
+			"midiNote":69,
+			"type":"CABASA"
+		},
+		{
+			"name":"Maracas",
+			"midiNote":70,
+			"type":"MARACAS"
+		},
+		{
+			"name":"Short Whistle",
+			"midiNote":71,
+			"type":"SHORT_WHISTLE"
+		},
+		{
+			"name":"Long Whiste",
+			"midiNote":72,
+			"type":"LONG_WHISTLE"
+		},
+		{
+			"name":"Short Guiro",
+			"midiNote":73,
+			"type":"SHORT_GUIRO"
+		},
+		{
+			"name":"Long Guiro",
+			"midiNote":74,
+			"type":"LONG_GUIRO"
+		},
+		{
+			"name":"Claves",
+			"midiNote":75,
+			"type":"CLAVES"
+		},
+		{
+			"name":"Hi Wood Block",
+			"midiNote":76,
+			"type":"HIGH_WOOD_BLOCK"
+		},
+		{
+			"name":"Low Wood Block",
+			"midiNote":77,
+			"type":"LOW_WOOD_BLOCK"
+		},
+		{
+			"name":"Mute Cuica",
+			"midiNote":78,
+			"type":"MUTE_CUICA"
+		},
+		{
+			"name":"Open Cuica",
+			"midiNote":79,
+			"type":"OPEN_CUICA"
+		},
+		{
+			"name":"Mute Triangle",
+			"midiNote":80,
+			"type":"MUTE_TRIANGLE"
+		},
+		{
+			"name":"Open Triangle",
+			"midiNote":81,
+			"type":"OPEN_TRIANGLE"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		}
+	]
+}

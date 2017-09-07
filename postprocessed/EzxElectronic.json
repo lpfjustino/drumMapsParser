@@ -1,0 +1,210 @@
+{
+	"name": "EzxElectronic",
+	"pieces": [
+		{
+			"name":"Kick",
+			"midiNote":36,
+			"type":"KICK"
+		},
+		{
+			"name":"Snare 1",
+			"midiNote":38,
+			"type":"SNARE_1"
+		},
+		{
+			"name":"Snare 2",
+			"midiNote":40,
+			"type":"SNARE_2"
+		},
+		{
+			"name":"Rim",
+			"midiNote":37,
+			"type":"RIM"
+		},
+		{
+			"name":"Clap",
+			"midiNote":39,
+			"type":"CLAP"
+		},
+		{
+			"name":"Tom 1",
+			"midiNote":41,
+			"type":"TOM_1"
+		},
+		{
+			"name":"Tom 2",
+			"midiNote":43,
+			"type":"TOM_2"
+		},
+		{
+			"name":"Tom 3",
+			"midiNote":45,
+			"type":"TOM_3"
+		},
+		{
+			"name":"Tom 4",
+			"midiNote":47,
+			"type":"TOM_4"
+		},
+		{
+			"name":"Crash 1",
+			"midiNote":49,
+			"type":"CRASH_1"
+		},
+		{
+			"name":"Crash 1",
+			"midiNote":51,
+			"type":"CRASH_2"
+		},
+		{
+			"name":"Hits 1",
+			"midiNote":48,
+			"type":"HITS_1"
+		},
+		{
+			"name":"Hits 2",
+			"midiNote":50,
+			"type":"HITS_2"
+		},
+		{
+			"name":"Hits 3",
+			"midiNote":52,
+			"type":"HITS_3"
+		},
+		{
+			"name":"Hits 4",
+			"midiNote":53,
+			"type":"HITS_4"
+		},
+		{
+			"name":"Hits 5",
+			"midiNote":54,
+			"type":"HITS_5"
+		},
+		{
+			"name":"Hits 6",
+			"midiNote":55,
+			"type":"HITS_6"
+		},
+		{
+			"name":"Percussion 1",
+			"midiNote":56,
+			"type":"PERCUSSION_1"
+		},
+		{
+			"name":"Percussion 2",
+			"midiNote":57,
+			"type":"PERCUSSION_2"
+		},
+		{
+			"name":"Percussion 3",
+			"midiNote":58,
+			"type":"PERCUSSION_3"
+		},
+		{
+			"name":"Percussion 4",
+			"midiNote":59,
+			"type":"PERCUSSION_4"
+		},
+		{
+			"name":"Extra 1",
+			"midiNote":61,
+			"type":"EXTRA_1"
+		},
+		{
+			"name":"Extra 2",
+			"midiNote":62,
+			"type":"EXTRA_2"
+		},
+		{
+			"name":"Extra 3",
+			"midiNote":63,
+			"type":"EXTRA_3"
+		},
+		{
+			"name":"Extra 4",
+			"midiNote":64,
+			"type":"EXTRA_4"
+		},
+		{
+			"name":"Extra 5",
+			"midiNote":65,
+			"type":"EXTRA_5"
+		},
+		{
+			"name":"Extra 6",
+			"midiNote":66,
+			"type":"EXTRA_6"
+		},
+		{
+			"name":"Extra 7",
+			"midiNote":67,
+			"type":"EXTRA_7"
+		},
+		{
+			"name":"Extra 8",
+			"midiNote":68,
+			"type":"EXTRA_8"
+		},
+		{
+			"name":"Extra 9",
+			"midiNote":69,
+			"type":"EXTRA_9"
+		},
+		{
+			"name":"Extra 10",
+			"midiNote":70,
+			"type":"EXTRA_10"
+		},
+		{
+			"name":"Extra 11",
+			"midiNote":71,
+			"type":"EXTRA_11"
+		},
+		{
+			"name":"Extra 12",
+			"midiNote":72,
+			"type":"EXTRA_12"
+		},
+		{
+			"name":"Extra 13",
+			"midiNote":73,
+			"type":"EXTRA_13"
+		},
+		{
+			"name":"Extra 14",
+			"midiNote":74,
+			"type":"EXTRA_14"
+		},
+		{
+			"name":"Extra 15",
+			"midiNote":75,
+			"type":"EXTRA_15"
+		},
+		{
+			"name":"Extra 16",
+			"midiNote":76,
+			"type":"EXTRA_16"
+		},
+		{
+			"name":"Hats 1",
+			"midiNote":42,
+			"type":"HATS_1"
+		},
+		{
+			"name":"Hats 2",
+			"midiNote":44,
+			"type":"HATS_2"
+		},
+		{
+			"name":"Hats 3",
+			"midiNote":46,
+			"type":"HATS_3"
+		},
+		{
+			"name":"Hats 4",
+			"midiNote":60,
+			"type":"HATS_4"
+		}
+	]
+}

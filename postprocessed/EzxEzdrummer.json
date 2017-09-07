@@ -1,0 +1,155 @@
+{
+	"name": "EzxEzdrummer",
+	"pieces": [
+		{
+			"name":"Kick Hit",
+			"midiNote":36,
+			"type":"KICK_HIT"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":37,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Snare Right",
+			"midiNote":38,
+			"type":"SNARE_RIGHT"
+		},
+		{
+			"name":"Snare Left",
+			"midiNote":33,
+			"type":"SNARE_LEFT"
+		},
+		{
+			"name":"Snare Rimshot",
+			"midiNote":40,
+			"type":"SNARE_RIMSHOT"
+		},
+		{
+			"name":"Tom 1 Head",
+			"midiNote":48,
+			"type":"TOM_1_HEAD"
+		},
+		{
+			"name":"Tom 2 Head",
+			"midiNote":47,
+			"type":"TOM_2_HEAD"
+		},
+		{
+			"name":"Floor Tom Head",
+			"midiNote":43,
+			"type":"FLOOR_TOM_HEAD"
+		},
+		{
+			"name":"Crash Cymbal A",
+			"midiNote":49,
+			"type":"CRASH_A"
+		},
+		{
+			"name":"Crash Cymbal B",
+			"midiNote":54,
+			"type":"CRASH_B"
+		},
+		{
+			"name":"Crash Cymbal B Muted",
+			"midiNote":57,
+			"type":"CRASH_B_MUTED"
+		},
+		{
+			"name":"Ride Cymbal Edge",
+			"midiNote":58,
+			"type":"RIDE_EDGE"
+		},
+		{
+			"name":"Ride Cymbal Bow",
+			"midiNote":51,
+			"type":"RIDE_BOW"
+		},
+		{
+			"name":"Ride Cymbal Bell",
+			"midiNote":53,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Cowbell",
+			"midiNote":38,
+			"type":"COWBELL"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Sequence Soft",
+			"midiNote":65,
+			"type":"HIHAT_SEQUENCE_SOFT"
+		},
+		{
+			"name":"HiHat Sequence Hard",
+			"midiNote":64,
+			"type":"HIHAT_SEQUENCE_HARD"
+		},
+		{
+			"name":"HiHat Tight Tip",
+			"midiNote":63,
+			"type":"HIHAT_TIGHT_TIP"
+		},
+		{
+			"name":"HiHat Tight",
+			"midiNote":62,
+			"type":"HIHAT_TIGHT"
+		},
+		{
+			"name":"HiHat Closed Tip",
+			"midiNote":61,
+			"type":"HIHAT_CLOSED_TIP"
+		},
+		{
+			"name":"HiHat Opened Max",
+			"midiNote":60,
+			"type":"HIHAT_OPENED_MAX"
+		},
+		{
+			"name":"HiHat Open 3",
+			"midiNote":26,
+			"type":"HIHAT_OPEN3"
+		},
+		{
+			"name":"HiHat Open 2",
+			"midiNote":25,
+			"type":"HIHAT_OPEN2"
+		},
+		{
+			"name":"HiHat Open 1",
+			"midiNote":24,
+			"type":"HIHAT_OPEN1"
+		},
+		{
+			"name":"HiHat Foot Splash",
+			"midiNote":23,
+			"type":"HIHAT_FOOT_SPLASH"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":22,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Pedal Chick",
+			"midiNote":21,
+			"type":"HIHAT_PEDAL_CHICK"
+		}
+	]
+}

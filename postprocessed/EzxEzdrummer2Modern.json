@@ -1,0 +1,210 @@
+{
+	"name": "EzxEzdrummer2Modern",
+	"pieces": [
+		{
+			"name":"Kick Hit",
+			"midiNote":36,
+			"type":"KICK_HIT"
+		},
+		{
+			"name":"Snare Right",
+			"midiNote":38,
+			"type":"SNARE_CENTER"
+		},
+		{
+			"name":"Snare Rimshot",
+			"midiNote":40,
+			"type":"SNARE_RIMSHOT"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":37,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Tom 1 Center",
+			"midiNote":48,
+			"type":"TOM_1_CENTER"
+		},
+		{
+			"name":"Tom 1 Rimshot",
+			"midiNote":82,
+			"type":"TOM_1_RIMSHOT"
+		},
+		{
+			"name":"Tom 2 Center",
+			"midiNote":47,
+			"type":"TOM_2_CENTER"
+		},
+		{
+			"name":"Tom 2 Rimshot",
+			"midiNote":80,
+			"type":"TOM_2_RIMSHOT"
+		},
+		{
+			"name":"Tom 3 Center",
+			"midiNote":45,
+			"type":"TOM_3_CENTER"
+		},
+		{
+			"name":"Tom 3 Rimshot",
+			"midiNote":78,
+			"type":"TOM_3_RIMSHOT"
+		},
+		{
+			"name":"Floor Tom 1 Center",
+			"midiNote":43,
+			"type":"FLOOR_TOM_1_CENTER"
+		},
+		{
+			"name":"Floor Tom 1 Rimshot",
+			"midiNote":75,
+			"type":"FLOOR_TOM_1_RIMSHOT"
+		},
+		{
+			"name":"Floor Tom 2 Center",
+			"midiNote":41,
+			"type":"FLOOR_TOM_2_CENTER"
+		},
+		{
+			"name":"Floor Tom 2 Rimshot",
+			"midiNote":73,
+			"type":"FLOOR_TOM_2_RIMSHOT"
+		},
+		{
+			"name":"Cymbal 1 Crashed",
+			"midiNote":55,
+			"type":"CYMBAL_1_CRASHED"
+		},
+		{
+			"name":"Cymbal 1 Muted",
+			"midiNote":56,
+			"type":"CYMBAL_1_MUTED"
+		},
+		{
+			"name":"Cymbal 2 Crashed",
+			"midiNote":49,
+			"type":"CYMBAL_2_CRASHED"
+		},
+		{
+			"name":"Cymbal 2 Muted",
+			"midiNote":50,
+			"type":"CYMBAL_2_MUTED"
+		},
+		{
+			"name":"Cymbal 3 Crashed",
+			"midiNote":57,
+			"type":"CYMBAL_3_CRASHED"
+		},
+		{
+			"name":"Cymbal 3 Muted",
+			"midiNote":58,
+			"type":"CYMBAL_3_MUTED"
+		},
+		{
+			"name":"Cymbal 4 Crashed",
+			"midiNote":52,
+			"type":"CYMBAL_4_CRASHED"
+		},
+		{
+			"name":"Cymbal 4 Muted",
+			"midiNote":54,
+			"type":"CYMBAL_4_MUTED"
+		},
+		{
+			"name":"Ride Cymbal Edge",
+			"midiNote":59,
+			"type":"RIDE_EDGE"
+		},
+		{
+			"name":"Ride Cymbal Bow",
+			"midiNote":51,
+			"type":"RIDE_BOW"
+		},
+		{
+			"name":"Ride Cymbal Bell",
+			"midiNote":53,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Ride Cymbal Muted",
+			"midiNote":83,
+			"type":"RIDE_MUTED"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Sequence Hits",
+			"midiNote":65,
+			"type":"HIHAT_SEQUENCE_HITS"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":64,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Tight Tip",
+			"midiNote":63,
+			"type":"HIHAT_TIGHT_TIP"
+		},
+		{
+			"name":"HiHat Tight Edge",
+			"midiNote":62,
+			"type":"HIHAT_TIGHT_EDGE"
+		},
+		{
+			"name":"HiHat Closed Tip",
+			"midiNote":61,
+			"type":"HIHAT_CLOSED_TIP"
+		},
+		{
+			"name":"HiHat Opened Max",
+			"midiNote":60,
+			"type":"HIHAT_OPENED_MAX"
+		},
+		{
+			"name":"HiHat Open 3",
+			"midiNote":26,
+			"type":"HIHAT_OPEN3"
+		},
+		{
+			"name":"HiHat Open 2",
+			"midiNote":25,
+			"type":"HIHAT_OPEN2"
+		},
+		{
+			"name":"HiHat Open 1",
+			"midiNote":24,
+			"type":"HIHAT_OPEN1"
+		},
+		{
+			"name":"HiHat Foot Splash",
+			"midiNote":23,
+			"type":"HIHAT_FOOT_SPLASH"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":22,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Pedal Chick",
+			"midiNote":21,
+			"type":"HIHAT_PEDAL_CHICK"
+		}
+	]
+}

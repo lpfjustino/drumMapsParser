@@ -1,0 +1,180 @@
+{
+	"name": "AddictiveDrums",
+	"pieces": [
+		{
+			"name":"Kick",
+			"midiNote":36,
+			"type":"KICK_HIT"
+		},
+		{
+			"name":"Snare Hit",
+			"midiNote":40,
+			"type":"SNARE_HIT"
+		},
+		{
+			"name":"Snare Rim",
+			"midiNote":39,
+			"type":"SNARE_RIM"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":42,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Tom 1 Hit",
+			"midiNote":71,
+			"type":"TOM_1_HIT"
+		},
+		{
+			"name":"Tom 1 Hit",
+			"midiNote":72,
+			"type":"TOM_1_RIM"
+		},
+		{
+			"name":"Tom 2 Hit",
+			"midiNote":69,
+			"type":"TOM_2_HIT"
+		},
+		{
+			"name":"Tom 2 Hit",
+			"midiNote":70,
+			"type":"TOM_2_RIM"
+		},
+		{
+			"name":"Tom 3 Hit",
+			"midiNote":67,
+			"type":"TOM_3_HIT"
+		},
+		{
+			"name":"Tom 3 Hit",
+			"midiNote":68,
+			"type":"TOM_3_RIM"
+		},
+		{
+			"name":"Tom 4 Hit",
+			"midiNote":65,
+			"type":"TOM_4_HIT"
+		},
+		{
+			"name":"Tom 4 Hit",
+			"midiNote":66,
+			"type":"TOM_4_RIM"
+		},
+		{
+			"name":"Ride Cymbal Choke",
+			"midiNote":63,
+			"type":"RIDE_CHOKE"
+		},
+		{
+			"name":"Ride Cymbal Shaft",
+			"midiNote":62,
+			"type":"RIDE_SHAFT"
+		},
+		{
+			"name":"Ride Cymbal Tip",
+			"midiNote":60,
+			"type":"RIDE_TIP"
+		},
+		{
+			"name":"Ride Cymbal Bell",
+			"midiNote":61,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Cymbal 1",
+			"midiNote":77,
+			"type":"CYMBAL_1"
+		},
+		{
+			"name":"Cymbal 2",
+			"midiNote":79,
+			"type":"CYMBAL_2"
+		},
+		{
+			"name":"Cymbal 3",
+			"midiNote":81,
+			"type":"CYMBAL_3"
+		},
+		{
+			"name":"Cymbal 1 Choke",
+			"midiNote":78,
+			"type":"CYMBAL_1_CHOKE"
+		},
+		{
+			"name":"Cymbal 2 Choke",
+			"midiNote":80,
+			"type":"CYMBAL_2_CHOKE"
+		},
+		{
+			"name":"Cymbal 3 Choke",
+			"midiNote":82,
+			"type":"CYMBAL_3_CHOKE"
+		},
+		{
+			"name":"Sticks",
+			"midiNote":75,
+			"type":"STICKS"
+		},
+		{
+			"name":"Extra",
+			"midiNote":47,
+			"type":"EXTRA"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Opened Edge",
+			"midiNote":65,
+			"type":"HIHAT_OPENED_EDGE"
+		},
+		{
+			"name":"HiHat Opened Max",
+			"midiNote":60,
+			"type":"HIHAT_OPENED_MAX"
+		},
+		{
+			"name":"HiHat Open 3",
+			"midiNote":26,
+			"type":"HIHAT_OPEN3"
+		},
+		{
+			"name":"HiHat Open 2",
+			"midiNote":25,
+			"type":"HIHAT_OPEN2"
+		},
+		{
+			"name":"HiHat Open 1",
+			"midiNote":24,
+			"type":"HIHAT_OPEN1"
+		},
+		{
+			"name":"HiHat Foot Splash",
+			"midiNote":23,
+			"type":"HIHAT_FOOT_SPLASH"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":22,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Pedal CC",
+			"midiNote":4,
+			"type":"HIHAT_PEDAL_CC"
+		}
+	]
+}

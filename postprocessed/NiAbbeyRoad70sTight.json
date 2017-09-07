@@ -1,0 +1,370 @@
+{
+	"name": "NiAbbeyRoad70sTight",
+	"pieces": [
+		{
+			"name":"Kick Dampened",
+			"midiNote":36,
+			"type":"KICK_DAMPENED"
+		},
+		{
+			"name":"Kick Open",
+			"midiNote":60,
+			"type":"KICK_OPEN"
+		},
+		{
+			"name":"Snare Left Hand",
+			"midiNote":81,
+			"type":"SNARE_LEFT"
+		},
+		{
+			"name":"Snare Right Hand",
+			"midiNote":83,
+			"type":"SNARE_RIGHT"
+		},
+		{
+			"name":"Snare L/R Alternating",
+			"midiNote":38,
+			"type":"SNARE_ALTERNATING"
+		},
+		{
+			"name":"Snare Halfway Left Hand",
+			"midiNote":84,
+			"type":"SNARE_HALFWAY_LEFT"
+		},
+		{
+			"name":"Snare Halfway Right Hand",
+			"midiNote":86,
+			"type":"SNARE_HALFWAY_RIGHT"
+		},
+		{
+			"name":"Snare Halfway L/R Alternating",
+			"midiNote":40,
+			"type":"SNARE_HALFWAY_ALTERNATING"
+		},
+		{
+			"name":"Snare Rimshot",
+			"midiNote":39,
+			"type":"SNARE_RIMSHOT"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":37,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Snare Flam",
+			"midiNote":62,
+			"type":"SNARE_FLAM"
+		},
+		{
+			"name":"Snare Roll",
+			"midiNote":63,
+			"type":"SNARE_ROLL"
+		},
+		{
+			"name":"Snare Wires Off",
+			"midiNote":64,
+			"type":"SNARE_WIRES_OFF"
+		},
+		{
+			"name":"Snare Rim Only",
+			"midiNote":61,
+			"type":"SNARE_RIM_ONLY"
+		},
+		{
+			"name":"Snare Towel",
+			"midiNote":101,
+			"type":"SNARE_TOWEL"
+		},
+		{
+			"name":"HiHat Closed Tight Tip Right",
+			"midiNote":87,
+			"type":"HIHAT_CLOSED_TIGHT_TIP_RIGHT"
+		},
+		{
+			"name":"HiHat Closed Tight Tip Left",
+			"midiNote":85,
+			"type":"HIHAT_CLOSED_TIGHT_TIP_LEFT"
+		},
+		{
+			"name":"HiHat Closed Tight Tip L/R Alternating",
+			"midiNote":66,
+			"type":"HIHAT_CLOSED_TIGHT_TIP_ALTERNATING"
+		},
+		{
+			"name":"HiHat Closed Tip Right",
+			"midiNote":92,
+			"type":"HIHAT_CLOSED_TIP_RIGHT"
+		},
+		{
+			"name":"HiHat Closed Tip Left",
+			"midiNote":90,
+			"type":"HIHAT_CLOSED_TIP_LEFT"
+		},
+		{
+			"name":"HiHat Closed Tip R/L Alternating",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED_TIP_ALTERNATING"
+		},
+		{
+			"name":"HiHat Closed Shank Right",
+			"midiNote":97,
+			"type":"HIHAT_CLOSED_SHANK_RIGHT"
+		},
+		{
+			"name":"HiHat Closed Shank Left",
+			"midiNote":94,
+			"type":"HIHAT_CLOSED_SHANK_LEFT"
+		},
+		{
+			"name":"HiHat Closed Shank L/R Alternating",
+			"midiNote":68,
+			"type":"HIHAT_CLOSED_SHANK_ALTERNATING"
+		},
+		{
+			"name":"HiHat Closed Pedal",
+			"midiNote":44,
+			"type":"HIHAT_CLOSED_PEDAL"
+		},
+		{
+			"name":"HiHat Open Pedal",
+			"midiNote":70,
+			"type":"HIHAT_OPEN_PEDAL"
+		},
+		{
+			"name":"HiHat Open 1/4",
+			"midiNote":76,
+			"type":"HIHAT_OPEN_QUARTER"
+		},
+		{
+			"name":"HiHat Open 1/2",
+			"midiNote":77,
+			"type":"HIHAT_OPEN_HALF"
+		},
+		{
+			"name":"HiHat Open 3/4",
+			"midiNote":78,
+			"type":"HIHAT_OPEN_THREE_QUARTERS"
+		},
+		{
+			"name":"HiHat Open Loose",
+			"midiNote":79,
+			"type":"HIHAT_OPEN_LOOSE"
+		},
+		{
+			"name":"HiHat Open Full",
+			"midiNote":80,
+			"type":"HIHAT_OPEN_FULL"
+		},
+		{
+			"name":"Hihat Open Controller",
+			"midiNote":46,
+			"type":"HIHAT_OPEN_CONTROLLER"
+		},
+		{
+			"name":"Tom 1 Center Right",
+			"midiNote":100,
+			"type":"TOM_1_CENTER_RIGHT"
+		},
+		{
+			"name":"Tom 1 Center Left",
+			"midiNote":98,
+			"type":"TOM_1_CENTER_LEFT"
+		},
+		{
+			"name":"Tom 1 Center L/R Alternating",
+			"midiNote":47,
+			"type":"TOM_1_CENTER_ALTERNATING"
+		},
+		{
+			"name":"Tom 1 Rimshot",
+			"midiNote":71,
+			"type":"TOM_1_RIMSHOT"
+		},
+		{
+			"name":"Tom 1 Rim Only",
+			"midiNote":75,
+			"type":"TOM_1_RIM_ONLY"
+		},
+		{
+			"name":"Tom 1 Towel",
+			"midiNote":107,
+			"type":"TOM_1_TOWEL"
+		},
+		{
+			"name":"Tom 2 Center Right",
+			"midiNote":96,
+			"type":"TOM_2_CENTER_RIGHT"
+		},
+		{
+			"name":"Tom 2 Center Left",
+			"midiNote":95,
+			"type":"TOM_2_CENTER_LEFT"
+		},
+		{
+			"name":"Tom 2 Center L/R Alternating",
+			"midiNote":45,
+			"type":"TOM_2_CENTER_ALTERNATING"
+		},
+		{
+			"name":"Tom 2 Rimshot",
+			"midiNote":69,
+			"type":"TOM_2_RIMSHOT"
+		},
+		{
+			"name":"Tom 2 Rim Only",
+			"midiNote":74,
+			"type":"TOM_2_RIM_ONLY"
+		},
+		{
+			"name":"Tom 2 Towel",
+			"midiNote":105,
+			"type":"TOM_2_TOWEL"
+		},
+		{
+			"name":"Floor Tom 1 Center Right",
+			"midiNote":89,
+			"type":"FLOOR_TOM_CENTER_RIGHT"
+		},
+		{
+			"name":"Floor Tom 1 Center Left",
+			"midiNote":88,
+			"type":"FLOOR_TOM_CENTER_LEFT"
+		},
+		{
+			"name":"Floor Tom 1 Center L/R Alternating",
+			"midiNote":41,
+			"type":"FLOOR_TOM_CENTER_ALTERNATING"
+		},
+		{
+			"name":"Floor Tom 1 Rimshot",
+			"midiNote":65,
+			"type":"FLOOR_TOM_RIMSHOT"
+		},
+		{
+			"name":"Floor Tom 1 Rim Only",
+			"midiNote":72,
+			"type":"FLOOR_TOM_RIM_ONLY"
+		},
+		{
+			"name":"Floor Tom 1 Towel",
+			"midiNote":103,
+			"type":"FLOOR_TOM_TOWEL"
+		},
+		{
+			"name":"Crash 1 Edge",
+			"midiNote":49,
+			"type":"CRASH_1_EDGE"
+		},
+		{
+			"name":"Crash 1 Tip",
+			"midiNote":48,
+			"type":"CRASH_1_TIP"
+		},
+		{
+			"name":"Crash 1 Bell",
+			"midiNote":50,
+			"type":"CRASH_1_BELL"
+		},
+		{
+			"name":"Crash 1 Choke",
+			"midiNote":22,
+			"type":"CRASH_1_CHOKE"
+		},
+		{
+			"name":"Crash 2 Edge",
+			"midiNote":55,
+			"type":"CRASH_2_EDGE"
+		},
+		{
+			"name":"Crash 2 Tip",
+			"midiNote":54,
+			"type":"CRASH_2_TIP"
+		},
+		{
+			"name":"Crash 2 Bell",
+			"midiNote":56,
+			"type":"CRASH_2_BELL"
+		},
+		{
+			"name":"Crash 2 Choke",
+			"midiNote":24,
+			"type":"CRASH_2_CHOKE"
+		},
+		{
+			"name":"Ride Tip",
+			"midiNote":51,
+			"type":"RIDE_TIP"
+		},
+		{
+			"name":"Ride Bell",
+			"midiNote":53,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Ride Edge",
+			"midiNote":52,
+			"type":"RIDE_EDGE"
+		},
+		{
+			"name":"Ride Choke",
+			"midiNote":23,
+			"type":"RIDE_CHOKE"
+		},
+		{
+			"name":"Cymbal Pang Tip",
+			"midiNote":58,
+			"type":"CYMBAL_PANG_TIP"
+		},
+		{
+			"name":"Cymbal Pang Edge",
+			"midiNote":57,
+			"type":"CYMBAL_PANG_EDGE"
+		},
+		{
+			"name":"Cymbal Pang Choke",
+			"midiNote":25,
+			"type":"CYMBAL_PANG_CHOKE"
+		},
+		{
+			"name":"Tambourine Tap",
+			"midiNote":31,
+			"type":"PERCUSSION_TAMBOURINE_TAP"
+		},
+		{
+			"name":"Tambourine Shake",
+			"midiNote":32,
+			"type":"PERCUSSION_TAMBOURINE_SHAKE"
+		},
+		{
+			"name":"Clap Solo",
+			"midiNote":33,
+			"type":"PERCUSSION_CLAP_SOLO"
+		},
+		{
+			"name":"Clap Multi",
+			"midiNote":34,
+			"type":"PERCUSSION_CLAP_MULTI"
+		},
+		{
+			"name":"Sticks Hit",
+			"midiNote":35,
+			"type":"PERCUSSION_STICKS_HIT"
+		},
+		{
+			"name":"Roto Tom High",
+			"midiNote":30,
+			"type":"PERCUSSION_ROTO_TOM_HIGH"
+		},
+		{
+			"name":"Roto Tom Mid",
+			"midiNote":29,
+			"type":"PERCUSSION_ROTO_TOM_MID"
+		},
+		{
+			"name":"Roto Tom Low",
+			"midiNote":28,
+			"type":"PERCUSSION_ROTO_TOM_LOW"
+		}
+	]
+}

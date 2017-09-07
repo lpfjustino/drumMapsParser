@@ -1,0 +1,220 @@
+{
+	"name": "EzxNashville",
+	"pieces": [
+		{
+			"name":"Kick Right",
+			"midiNote":36,
+			"type":"KICK_RIGHT"
+		},
+		{
+			"name":"Snare Right",
+			"midiNote":38,
+			"type":"SNARE_RIGHT"
+		},
+		{
+			"name":"Snare Left",
+			"midiNote":33,
+			"type":"SNARE_LEFT"
+		},
+		{
+			"name":"Snare Rimshot",
+			"midiNote":40,
+			"type":"SNARE_RIMSHOT"
+		},
+		{
+			"name":"Snare Sidestick",
+			"midiNote":37,
+			"type":"SNARE_SIDESTICK"
+		},
+		{
+			"name":"Tom 1 Center",
+			"midiNote":48,
+			"type":"TOM_1_CENTER"
+		},
+		{
+			"name":"Tom 2 Center",
+			"midiNote":47,
+			"type":"TOM_2_CENTER"
+		},
+		{
+			"name":"Floor Tom Center",
+			"midiNote":43,
+			"type":"FLOOR_TOM_CENTER"
+		},
+		{
+			"name":"Crash A Crashed",
+			"midiNote":49,
+			"type":"CRASH_A_CRASHED"
+		},
+		{
+			"name":"Crash A Muted",
+			"midiNote":54,
+			"type":"CRASH_A_MUTED"
+		},
+		{
+			"name":"Crash B Crashed",
+			"midiNote":57,
+			"type":"CRASH_B_CRASHED"
+		},
+		{
+			"name":"Crash B Muted",
+			"midiNote":58,
+			"type":"CRASH_B_MUTED"
+		},
+		{
+			"name":"Crash + Crashed",
+			"midiNote":55,
+			"type":"CRASH_PLUS_CRASHED"
+		},
+		{
+			"name":"China Crashed",
+			"midiNote":52,
+			"type":"CHINA_CRASHED"
+		},
+		{
+			"name":"Ride Cymbal Edge",
+			"midiNote":59,
+			"type":"RIDE_EDGE"
+		},
+		{
+			"name":"Ride Cymbal Bow",
+			"midiNote":51,
+			"type":"RIDE_BOW"
+		},
+		{
+			"name":"Ride Cymbal Bell",
+			"midiNote":53,
+			"type":"RIDE_BELL"
+		},
+		{
+			"name":"Brush Right Tap",
+			"midiNote":68,
+			"type":"BRUSH_RIGHT_TAP"
+		},
+		{
+			"name":"Brush Left Tap",
+			"midiNote":67,
+			"type":"BRUSH_LEFT_TAP"
+		},
+		{
+			"name":"Fingers Ring",
+			"midiNote":71,
+			"type":"FINGERS_RING"
+		},
+		{
+			"name":"Fingers Middle",
+			"midiNote":70,
+			"type":"FINGERS_MIDDLE"
+		},
+		{
+			"name":"Fingers Index",
+			"midiNote":69,
+			"type":"FINGERS_INDEX"
+		},
+		{
+			"name":"Fingers Palm",
+			"midiNote":68,
+			"type":"FINGERS_PALM"
+		},
+		{
+			"name":"Fingers Thumb",
+			"midiNote":67,
+			"type":"FINGERS_THUMB"
+		},
+		{
+			"name":"Fingers Palm (2)",
+			"midiNote":66,
+			"type":"FINGERS_PALM_2"
+		},
+		{
+			"name":"Hand Open Rim",
+			"midiNote":40,
+			"type":"HAND_OPEN_RIM"
+		},
+		{
+			"name":"Hand Closed Rim",
+			"midiNote":39,
+			"type":"HAND_CLOSED_RIM"
+		},
+		{
+			"name":"Hand Open Slap",
+			"midiNote":38,
+			"type":"HAND_OPEN_SLAP"
+		},
+		{
+			"name":"Hand Closed Slap",
+			"midiNote":37,
+			"type":"HAND_CLOSED_SLAP"
+		},
+		{
+			"name":"HiHat Opened (GM)",
+			"midiNote":46,
+			"type":"HIHAT_OPEN"
+		},
+		{
+			"name":"HiHat Closed (GM)",
+			"midiNote":42,
+			"type":"HIHAT_CLOSED"
+		},
+		{
+			"name":"HiHat Pedal (GM)",
+			"midiNote":44,
+			"type":"HIHAT_PEDAL"
+		},
+		{
+			"name":"HiHat Sequence Hits",
+			"midiNote":65,
+			"type":"HIHAT_SEQUENCE_HITS"
+		},
+		{
+			"name":"HiHat Tight Tip",
+			"midiNote":63,
+			"type":"HIHAT_TIGHT_TIP"
+		},
+		{
+			"name":"HiHat Closed Tip",
+			"midiNote":61,
+			"type":"HIHAT_CLOSED_TIP"
+		},
+		{
+			"name":"HiHat Opened Max",
+			"midiNote":60,
+			"type":"HIHAT_OPENED_MAX"
+		},
+		{
+			"name":"HiHat Bell",
+			"midiNote":56,
+			"type":"HIHAT_BELL"
+		},
+		{
+			"name":"HiHat Open 3",
+			"midiNote":26,
+			"type":"HIHAT_OPEN3"
+		},
+		{
+			"name":"HiHat Open 2",
+			"midiNote":25,
+			"type":"HIHAT_OPEN2"
+		},
+		{
+			"name":"HiHat Open 1",
+			"midiNote":24,
+			"type":"HIHAT_OPEN1"
+		},
+		{
+			"name":"HiHat Foot Splash",
+			"midiNote":23,
+			"type":"HIHAT_FOOT_SPLASH"
+		},
+		{
+			"name":"HiHat Closed Edge",
+			"midiNote":22,
+			"type":"HIHAT_CLOSED_EDGE"
+		},
+		{
+			"name":"HiHat Pedal Chick",
+			"midiNote":21,
+			"type":"HIHAT_PEDAL_CHICK"
+		}
+	]
+}
