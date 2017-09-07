@@ -1,5 +1,6 @@
 import re
 import os
+import json
 
 def get_filepaths(directory):
     """
@@ -43,6 +44,15 @@ def process_java_files():
         g = open('./postprocessed/'+drum_map_name+'.json', 'w')
         g.write(result)
 
+def validate_json():
+    full_file_paths = get_filepaths(".\\postprocessed")
 
+    for fn in full_file_paths:
+        f = open(fn, 'r')
+        try:
+            json.loads(f.read())
+        except:
+            print('Failed: ' + fn)
 
 # process_java_files()
+validate_json()
