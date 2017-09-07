@@ -19,26 +19,30 @@ def get_filepaths(directory):
 
     return file_paths  # Self-explanatory.
 
-# Run the above function and store its results in a variable.
-full_file_paths = get_filepaths(".\\drumMaps")
+def process_java_files():
+    full_file_paths = get_filepaths(".\\drumMaps")
 
-for fn in full_file_paths:
-    f = open(fn, 'r')
+    for fn in full_file_paths:
+        f = open(fn, 'r')
 
-    drum_map_name = fn.split('\\')[2].split('.')[0]
-    result = '{\n\t"name": \"' + drum_map_name + '\",\n\t"pieces": [\n'
+        drum_map_name = fn.split('\\')[2].split('.')[0]
+        result = '{\n\t"name": \"' + drum_map_name + '\",\n\t"pieces": [\n'
 
-    content = f.read()
-    content = re.sub(r'(\"\,|\,) ', r'\1', content)
+        content = f.read()
+        content = re.sub(r'(\"\,|\,) ', r'\1', content)
 
-    content = re.findall(r'(\w*|\_)\((.*\")\,(\d+)\,((\w+|.)+).*\)(,|;)', content)
+        content = re.findall(r'(\w*|\_)\((.*\")\,(\d+)\,((\w+|.)+).*\)(,|;)', content)
 
-    buffer = []
-    for found in content:
-        buffer.append('\t\t{\n\t\t\t"name":'+found[1]+',\n\t\t\t"midiNote":'+found[2]+',\n\t\t\t"type":"'+found[0]+'"\n\t\t}')
+        buffer = []
+        for found in content:
+            buffer.append('\t\t{\n\t\t\t"name":'+found[1]+',\n\t\t\t"midiNote":'+found[2]+',\n\t\t\t"type":"'+found[0]+'"\n\t\t}')
 
-    result += ',\n'.join(buffer)
-    result += '\n\t]\n}'
+        result += ',\n'.join(buffer)
+        result += '\n\t]\n}'
 
-    g = open('./postprocessed/'+drum_map_name+'.json', 'w')
-    g.write(result)
+        g = open('./postprocessed/'+drum_map_name+'.json', 'w')
+        g.write(result)
+
+
+
+# process_java_files()
