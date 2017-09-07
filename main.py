@@ -54,5 +54,16 @@ def validate_json():
         except:
             print('Failed: ' + fn)
 
+def build_query():
+    full_file_paths = get_filepaths(".\\postprocessed")
+    query_body = []
+
+    for fn in full_file_paths:
+        f = open(fn, 'r')
+        query_body.append(json.loads(f.read()))
+
+    print(json.dumps(query_body))
+
 # process_java_files()
-validate_json()
+# validate_json()
+build_query()
