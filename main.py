@@ -64,6 +64,6 @@ def build_query():
 
     print(json.dumps(query_body))
 
-# process_java_files()
-# validate_json()
+process_java_files()
+validate_json()
 build_query()

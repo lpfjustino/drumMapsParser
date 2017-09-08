@@ -1,6 +1,645 @@
 {
 	"name": "GmSequencer",
 	"pieces": [
-
+		{
+			"name":"Note 0",
+			"midiNote":0,
+			"type":"PAD_0"
+		},
+		{
+			"name":"Note 1",
+			"midiNote":1,
+			"type":"PAD_1"
+		},
+		{
+			"name":"Note 2",
+			"midiNote":2,
+			"type":"PAD_2"
+		},
+		{
+			"name":"Note 3",
+			"midiNote":3,
+			"type":"PAD_3"
+		},
+		{
+			"name":"Note 4",
+			"midiNote":4,
+			"type":"PAD_4"
+		},
+		{
+			"name":"Note 5",
+			"midiNote":5,
+			"type":"PAD_5"
+		},
+		{
+			"name":"Note 6",
+			"midiNote":6,
+			"type":"PAD_6"
+		},
+		{
+			"name":"Note 7",
+			"midiNote":7,
+			"type":"PAD_7"
+		},
+		{
+			"name":"Note 8",
+			"midiNote":8,
+			"type":"PAD_8"
+		},
+		{
+			"name":"Note 9",
+			"midiNote":9,
+			"type":"PAD_9"
+		},
+		{
+			"name":"Note 10",
+			"midiNote":10,
+			"type":"PAD_10"
+		},
+		{
+			"name":"Note 11",
+			"midiNote":11,
+			"type":"PAD_11"
+		},
+		{
+			"name":"Note 12",
+			"midiNote":12,
+			"type":"PAD_12"
+		},
+		{
+			"name":"Note 13",
+			"midiNote":13,
+			"type":"PAD_13"
+		},
+		{
+			"name":"Note 14",
+			"midiNote":14,
+			"type":"PAD_14"
+		},
+		{
+			"name":"Note 15",
+			"midiNote":15,
+			"type":"PAD_15"
+		},
+		{
+			"name":"Note 16",
+			"midiNote":16,
+			"type":"PAD_16"
+		},
+		{
+			"name":"Note 17",
+			"midiNote":17,
+			"type":"PAD_17"
+		},
+		{
+			"name":"Note 18",
+			"midiNote":18,
+			"type":"PAD_18"
+		},
+		{
+			"name":"Note 19",
+			"midiNote":19,
+			"type":"PAD_19"
+		},
+		{
+			"name":"Note 20",
+			"midiNote":20,
+			"type":"PAD_20"
+		},
+		{
+			"name":"Note 21",
+			"midiNote":21,
+			"type":"PAD_21"
+		},
+		{
+			"name":"Note 22",
+			"midiNote":22,
+			"type":"PAD_22"
+		},
+		{
+			"name":"Note 23",
+			"midiNote":23,
+			"type":"PAD_23"
+		},
+		{
+			"name":"Note 24",
+			"midiNote":24,
+			"type":"PAD_24"
+		},
+		{
+			"name":"Note 25",
+			"midiNote":25,
+			"type":"PAD_25"
+		},
+		{
+			"name":"Note 26",
+			"midiNote":26,
+			"type":"PAD_26"
+		},
+		{
+			"name":"Note 27",
+			"midiNote":27,
+			"type":"PAD_27"
+		},
+		{
+			"name":"Note 28",
+			"midiNote":28,
+			"type":"PAD_28"
+		},
+		{
+			"name":"Note 29",
+			"midiNote":29,
+			"type":"PAD_29"
+		},
+		{
+			"name":"Note 30",
+			"midiNote":30,
+			"type":"PAD_30"
+		},
+		{
+			"name":"Note 31",
+			"midiNote":31,
+			"type":"PAD_31"
+		},
+		{
+			"name":"Note 32",
+			"midiNote":32,
+			"type":"PAD_32"
+		},
+		{
+			"name":"Note 33",
+			"midiNote":33,
+			"type":"PAD_33"
+		},
+		{
+			"name":"Note 34",
+			"midiNote":34,
+			"type":"PAD_34"
+		},
+		{
+			"name":"Note 35",
+			"midiNote":35,
+			"type":"PAD_35"
+		},
+		{
+			"name":"Note 36",
+			"midiNote":36,
+			"type":"PAD_36"
+		},
+		{
+			"name":"Note 37",
+			"midiNote":37,
+			"type":"PAD_37"
+		},
+		{
+			"name":"Note 38",
+			"midiNote":38,
+			"type":"PAD_38"
+		},
+		{
+			"name":"Note 39",
+			"midiNote":39,
+			"type":"PAD_39"
+		},
+		{
+			"name":"Note 40",
+			"midiNote":40,
+			"type":"PAD_40"
+		},
+		{
+			"name":"Note 41",
+			"midiNote":41,
+			"type":"PAD_41"
+		},
+		{
+			"name":"Note 42",
+			"midiNote":42,
+			"type":"PAD_42"
+		},
+		{
+			"name":"Note 43",
+			"midiNote":43,
+			"type":"PAD_43"
+		},
+		{
+			"name":"Note 44",
+			"midiNote":44,
+			"type":"PAD_44"
+		},
+		{
+			"name":"Note 45",
+			"midiNote":45,
+			"type":"PAD_45"
+		},
+		{
+			"name":"Note 46",
+			"midiNote":46,
+			"type":"PAD_46"
+		},
+		{
+			"name":"Note 47",
+			"midiNote":47,
+			"type":"PAD_47"
+		},
+		{
+			"name":"Note 48",
+			"midiNote":48,
+			"type":"PAD_48"
+		},
+		{
+			"name":"Note 49",
+			"midiNote":49,
+			"type":"PAD_49"
+		},
+		{
+			"name":"Note 50",
+			"midiNote":50,
+			"type":"PAD_50"
+		},
+		{
+			"name":"Note 51",
+			"midiNote":51,
+			"type":"PAD_51"
+		},
+		{
+			"name":"Note 52",
+			"midiNote":52,
+			"type":"PAD_52"
+		},
+		{
+			"name":"Note 53",
+			"midiNote":53,
+			"type":"PAD_53"
+		},
+		{
+			"name":"Note 54",
+			"midiNote":54,
+			"type":"PAD_54"
+		},
+		{
+			"name":"Note 55",
+			"midiNote":55,
+			"type":"PAD_55"
+		},
+		{
+			"name":"Note 56",
+			"midiNote":56,
+			"type":"PAD_56"
+		},
+		{
+			"name":"Note 57",
+			"midiNote":57,
+			"type":"PAD_57"
+		},
+		{
+			"name":"Note 58",
+			"midiNote":58,
+			"type":"PAD_58"
+		},
+		{
+			"name":"Note 59",
+			"midiNote":59,
+			"type":"PAD_59"
+		},
+		{
+			"name":"Note 60",
+			"midiNote":60,
+			"type":"PAD_60"
+		},
+		{
+			"name":"Note 61",
+			"midiNote":61,
+			"type":"PAD_61"
+		},
+		{
+			"name":"Note 62",
+			"midiNote":62,
+			"type":"PAD_62"
+		},
+		{
+			"name":"Note 63",
+			"midiNote":63,
+			"type":"PAD_63"
+		},
+		{
+			"name":"Note 64",
+			"midiNote":64,
+			"type":"PAD_64"
+		},
+		{
+			"name":"Note 65",
+			"midiNote":65,
+			"type":"PAD_65"
+		},
+		{
+			"name":"Note 66",
+			"midiNote":66,
+			"type":"PAD_66"
+		},
+		{
+			"name":"Note 67",
+			"midiNote":67,
+			"type":"PAD_67"
+		},
+		{
+			"name":"Note 68",
+			"midiNote":68,
+			"type":"PAD_68"
+		},
+		{
+			"name":"Note 69",
+			"midiNote":69,
+			"type":"PAD_69"
+		},
+		{
+			"name":"Note 70",
+			"midiNote":70,
+			"type":"PAD_70"
+		},
+		{
+			"name":"Note 71",
+			"midiNote":71,
+			"type":"PAD_71"
+		},
+		{
+			"name":"Note 72",
+			"midiNote":72,
+			"type":"PAD_72"
+		},
+		{
+			"name":"Note 73",
+			"midiNote":73,
+			"type":"PAD_73"
+		},
+		{
+			"name":"Note 74",
+			"midiNote":74,
+			"type":"PAD_74"
+		},
+		{
+			"name":"Note 75",
+			"midiNote":75,
+			"type":"PAD_75"
+		},
+		{
+			"name":"Note 76",
+			"midiNote":76,
+			"type":"PAD_76"
+		},
+		{
+			"name":"Note 77",
+			"midiNote":77,
+			"type":"PAD_77"
+		},
+		{
+			"name":"Note 78",
+			"midiNote":78,
+			"type":"PAD_78"
+		},
+		{
+			"name":"Note 79",
+			"midiNote":79,
+			"type":"PAD_79"
+		},
+		{
+			"name":"Note 80",
+			"midiNote":80,
+			"type":"PAD_80"
+		},
+		{
+			"name":"Note 81",
+			"midiNote":81,
+			"type":"PAD_81"
+		},
+		{
+			"name":"Note 82",
+			"midiNote":82,
+			"type":"PAD_82"
+		},
+		{
+			"name":"Note 83",
+			"midiNote":83,
+			"type":"PAD_83"
+		},
+		{
+			"name":"Note 84",
+			"midiNote":84,
+			"type":"PAD_84"
+		},
+		{
+			"name":"Note 85",
+			"midiNote":85,
+			"type":"PAD_85"
+		},
+		{
+			"name":"Note 86",
+			"midiNote":86,
+			"type":"PAD_86"
+		},
+		{
+			"name":"Note 87",
+			"midiNote":87,
+			"type":"PAD_87"
+		},
+		{
+			"name":"Note 88",
+			"midiNote":88,
+			"type":"PAD_88"
+		},
+		{
+			"name":"Note 89",
+			"midiNote":89,
+			"type":"PAD_89"
+		},
+		{
+			"name":"Note 90",
+			"midiNote":90,
+			"type":"PAD_90"
+		},
+		{
+			"name":"Note 91",
+			"midiNote":91,
+			"type":"PAD_91"
+		},
+		{
+			"name":"Note 92",
+			"midiNote":92,
+			"type":"PAD_92"
+		},
+		{
+			"name":"Note 93",
+			"midiNote":93,
+			"type":"PAD_93"
+		},
+		{
+			"name":"Note 94",
+			"midiNote":94,
+			"type":"PAD_94"
+		},
+		{
+			"name":"Note 95",
+			"midiNote":95,
+			"type":"PAD_95"
+		},
+		{
+			"name":"Note 96",
+			"midiNote":96,
+			"type":"PAD_96"
+		},
+		{
+			"name":"Note 97",
+			"midiNote":97,
+			"type":"PAD_97"
+		},
+		{
+			"name":"Note 98",
+			"midiNote":98,
+			"type":"PAD_98"
+		},
+		{
+			"name":"Note 99",
+			"midiNote":99,
+			"type":"PAD_99"
+		},
+		{
+			"name":"Note 100",
+			"midiNote":100,
+			"type":"PAD_100"
+		},
+		{
+			"name":"Note 101",
+			"midiNote":101,
+			"type":"PAD_101"
+		},
+		{
+			"name":"Note 102",
+			"midiNote":102,
+			"type":"PAD_102"
+		},
+		{
+			"name":"Note 103",
+			"midiNote":103,
+			"type":"PAD_103"
+		},
+		{
+			"name":"Note 104",
+			"midiNote":104,
+			"type":"PAD_104"
+		},
+		{
+			"name":"Note 105",
+			"midiNote":105,
+			"type":"PAD_105"
+		},
+		{
+			"name":"Note 106",
+			"midiNote":106,
+			"type":"PAD_106"
+		},
+		{
+			"name":"Note 107",
+			"midiNote":107,
+			"type":"PAD_107"
+		},
+		{
+			"name":"Note 108",
+			"midiNote":108,
+			"type":"PAD_108"
+		},
+		{
+			"name":"Note 109",
+			"midiNote":109,
+			"type":"PAD_109"
+		},
+		{
+			"name":"Note 110",
+			"midiNote":110,
+			"type":"PAD_110"
+		},
+		{
+			"name":"Note 111",
+			"midiNote":111,
+			"type":"PAD_111"
+		},
+		{
+			"name":"Note 112",
+			"midiNote":112,
+			"type":"PAD_112"
+		},
+		{
+			"name":"Note 113",
+			"midiNote":113,
+			"type":"PAD_113"
+		},
+		{
+			"name":"Note 114",
+			"midiNote":114,
+			"type":"PAD_114"
+		},
+		{
+			"name":"Note 115",
+			"midiNote":115,
+			"type":"PAD_115"
+		},
+		{
+			"name":"Note 116",
+			"midiNote":116,
+			"type":"PAD_116"
+		},
+		{
+			"name":"Note 117",
+			"midiNote":117,
+			"type":"PAD_117"
+		},
+		{
+			"name":"Note 118",
+			"midiNote":118,
+			"type":"PAD_118"
+		},
+		{
+			"name":"Note 119",
+			"midiNote":119,
+			"type":"PAD_119"
+		},
+		{
+			"name":"Note 120",
+			"midiNote":120,
+			"type":"PAD_120"
+		},
+		{
+			"name":"Note 121",
+			"midiNote":121,
+			"type":"PAD_121"
+		},
+		{
+			"name":"Note 122",
+			"midiNote":122,
+			"type":"PAD_122"
+		},
+		{
+			"name":"Note 123",
+			"midiNote":123,
+			"type":"PAD_123"
+		},
+		{
+			"name":"Note 124",
+			"midiNote":124,
+			"type":"PAD_124"
+		},
+		{
+			"name":"Note 125",
+			"midiNote":125,
+			"type":"PAD_125"
+		},
+		{
+			"name":"Note 126",
+			"midiNote":126,
+			"type":"PAD_126"
+		},
+		{
+			"name":"Note 127",
+			"midiNote":127,
+			"type":"PAD_127"
+		}
 	]
 }
